@@ -49,16 +49,16 @@ const Footer = () => {
                   pankaj21dhal@gmail.com
                 </a>
                 <div className="social-icons d-flex align-items-center gap-30 mt-4">
-                  <a className="text-white" href="">
+                  <a className="text-white" href="#">
                     <FaLinkedin className="fs-3"/>
                   </a>
-                  <a className="text-white" href="">
+                  <a className="text-white" href="#">
                     <FaGithub className="fs-3"/>
                   </a>
-                  <a className="text-white" href="">
+                  <a className="text-white" href="#">
                     <FaInstagram className="fs-3"/>
                   </a>
-                  <a className="text-white" href="">
+                  <a className="text-white" href="#">
                   <FaSquareXTwitter  className="fs-3"/>
                   </a>
                 </div>
