@@ -1,5 +1,5 @@
 import React from "react";
-import ReactStars from "react-rating-stars-component";
+import StarRatingComponent from "react-star-rating-component";
 
 const ProductCart = () => {
   return (
@@ -14,7 +14,12 @@ const ProductCart = () => {
             <h5 className="product-title">
               Kids Watch bulk 10pic multi colours
             </h5>
-            <ReactStars count={5} size={24} value={3.5} activeColor="#ffd700" />
+            <StarRatingComponent
+              starCount={5}
+              value={3}
+              edit={false}
+              size={55}
+            />
             <p className="price">$100.00</p>
           </div>
         </div>

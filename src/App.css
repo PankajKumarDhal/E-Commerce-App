@@ -275,12 +275,6 @@ footer .input-group-text{
   font-size: 15px;
   color: red;
 }
-.react-stars {
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-}
-.react-stars svg {
-  fill: #ffd700; /* Ensure the star color is correct */
-}
+
+
 /* productCard  end*/
